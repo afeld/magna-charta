@@ -10,6 +10,10 @@ A jQuery plugin for producing bar charts from tables.
 
 - Or, from V3 onwards, we put the downloads on the [Github downloads page](https://github.com/alphagov/magna-charta/downloads).
 
+## Demo
+
+To view the demo, download the repository (see above) and open the `demo.html` file in a browser.
+
 ## Documentation
 
 ### How it works
